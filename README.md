@@ -2,6 +2,8 @@
 
 > A webapp using node.js, sequelize, vue.js, firebase and heroku
 
+Live heroku demo: [glovo game](http://glovogame.herokuapp.com/)
+
 - [Build setup](#build-setup)
 - [Creating user](#creating-user)
 - [Todo](#todo)
