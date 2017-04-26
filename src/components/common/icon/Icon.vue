@@ -1,7 +1,5 @@
-<template lang="pug">
-	.icon(
-		:style="{ backgroundImage: source}"
-	)
+<template>
+	<div class="icon" :style="{ backgroundImage: source }"/>
 </template>
 
 <script>
