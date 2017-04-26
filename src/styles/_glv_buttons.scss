@@ -1,0 +1,19 @@
+.btn-not-ready {
+  border-radius: 6px;
+  background-color: #ecbf4e;
+  box-shadow: none;
+
+  &:hover {
+    background-color: #e0b54a;
+  }
+}
+
+.btn-ready {
+  border-radius: 6px;
+  background-color: #2abb9b;
+  box-shadow: none;
+
+  &:hover {
+    background-color: #25a287;
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>DE6F0375-1E24-4E4D-AEE3-0C0A12D9DEED</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 14.21025 13.5535167 14.21025 13.5535167 0.453276316 2.10817089e-20 0.453276316"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-307.000000, -47.000000)">
+            <g id="Page-1" transform="translate(307.000000, 46.300000)">
+                <path d="M3.04314444,15.2226842 C2.61692222,15.6545263 1.92703333,15.6545263 1.50081111,15.2226842 C1.07536667,14.7900526 1.07536667,14.0897895 1.50081111,13.6571579 L12.8734778,2.11347368 C13.2997,1.68163158 13.9903667,1.68163158 14.4158111,2.11347368 C14.8420333,2.54610526 14.8420333,3.24636842 14.4158111,3.679 L3.04314444,15.2226842 Z" id="Fill-1" fill="#575756"></path>
+                <g id="Group-5" transform="translate(1.200012, 1.336316)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M11.6921,13.8863684 C12.1175444,14.3182105 12.8082111,14.3182105 13.2344333,13.8863684 C13.6598778,13.4537368 13.6598778,12.7534737 13.2344333,12.3208421 L1.86176667,0.777157895 C1.43554444,0.345315789 0.744877778,0.345315789 0.319433333,0.777157895 C-0.106788889,1.20978947 -0.106788889,1.91005263 0.319433333,2.34268421 L11.6921,13.8863684 Z" id="Fill-3" fill="#575756" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

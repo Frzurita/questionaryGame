@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>11B17D73-3B78-4AA0-8B4C-A6301560A1D6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="15.5549258 0.358772254 0.263642811 0.358772254 0.263642811 15.9574046 15.5549258 15.9574046 15.5549258 0.358772254"></polygon>
+        <polygon id="path-3" points="29.5279948 13.446967 29.5279948 0.219189945 0.000158185686 0.219189945 0.000158185686 13.446967 29.5279948 13.446967"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-136.000000, -174.000000)">
+            <g id="Profile-30x30" transform="translate(136.000000, 174.000000)">
+                <g id="Page-1" transform="translate(0.000000, 0.375000)">
+                    <g id="Group-3" transform="translate(6.854713, 0.179279)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M15.5549258,8.15800772 C15.5549258,12.4654263 12.1317876,15.9574046 7.90928432,15.9574046 C3.68678106,15.9574046 0.263642811,12.4654263 0.263642811,8.15800772 C0.263642811,3.85058911 3.68678106,0.358610888 7.90928432,0.358610888 C12.1317876,0.358610888 15.5549258,3.85058911 15.5549258,8.15800772" id="Fill-1" fill="#FFCA43" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="Group-6" transform="translate(0.000000, 15.778072)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <path d="M14.7641556,3.40779853 C11.8282292,3.40779853 9.16701871,2.18786528 7.24031705,0.219189945 C3.00146794,1.91892057 0.000158185686,6.12898119 0.000158185686,11.0565863 L0.000158185686,11.2620601 C0.000158185686,12.469084 0.959290731,13.446967 2.14199238,13.446967 L27.3857915,13.446967 C28.5690204,13.446967 29.528153,12.469084 29.528153,11.2620601 L29.528153,11.0565863 C29.528153,6.12898119 26.5263159,1.91892057 22.2874668,0.219189945 C20.3612925,2.18786528 17.6995546,3.40779853 14.7641556,3.40779853 Z" id="Fill-4" fill="#FFCA43" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

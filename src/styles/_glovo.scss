@@ -1,0 +1,65 @@
+textarea:focus, input:focus{
+    outline: none;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.glovoTitle {
+  text-align: left;
+  font-size: 35px;
+  margin-top: 10px;
+  padding-left: 10px;
+  font-family: Gotham-Book;
+  color: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  // border-bottom: 1px solid rgba(0, 0, 0, 0.0980392);
+  margin-bottom: 5px;
+}
+
+
+.glovoInput {
+  // box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+  height: 2.5em;
+  padding-top: 0.5em;
+  height: 18px;
+  padding: 0px 10px;
+  margin: 15px 0;
+  background: transparent;
+  line-height: 18px;
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+input.glovoInput:-webkit-autofill {
+  -webkit-background-color: transparent!important
+}
+
+.only_big {
+  @media(max-width: 600px) {
+    display: none;
+  }
+}
+
+
+
+.no-padding {
+  padding: 0px;
+}
+
+
+.cross {
+  min-height: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.crossimg {
+  background-image: url('/assets/images/icons/svg/cross.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 15px;
+  width: 15px;
+  cursor: pointer;
+}
