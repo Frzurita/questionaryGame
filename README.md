@@ -64,3 +64,4 @@ npm run createUser
 
 - Cover it with tests
 - Create a better way to add users
+- A better explanation about how the app works
