@@ -7,8 +7,9 @@
   "scripts": {
     "start": "NODE_ENV=production node ./bin/www.js",
     "dev": "NODE_ENV=development node ./bin/www.js",
-    "devGame": "node build/dev-server.js",
-    "createUser": "node user_generator.js",
+    "dev-game": "node build/dev-server.js",
+    "init-db": "NODE_ENV=development node initdb.js",
+    "create-user": "node user_generator.js",
     "build": "node build/build.js",
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
     "e2e": "node test/e2e/runner.js",

@@ -15,7 +15,7 @@ Live heroku demo: [glovo game](http://glovogame.herokuapp.com/)
 npm install
 
 # serve with hot reload at localhost:8080
-npm run devGame
+npm run dev-game
 
 # back end serve at localhost:8000
 npm run dev
@@ -57,7 +57,7 @@ db.models.user.create({
 And then executing the next command
 
 ```
-npm run createUser
+npm run create-user
 ```
 
 ## Todo

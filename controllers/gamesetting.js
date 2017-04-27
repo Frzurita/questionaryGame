@@ -51,14 +51,12 @@ class GameSetting {
       question_related: [],
       question_showed: []
     }
-    console.log(settings)
     req.models.answer.find({
       where: {
         id: req.body.answer
       }
     })
     .then((answer) => {
-      console.log(JSON.stringify(answer))
       if (settings.happiness <= 55 || settings.happiness >= 0 || (settings.happiness < 0 && answer > 0) || (settings.happiness > 55 && answer < 0)) {
         settings.happiness += answer.happiness
       }
